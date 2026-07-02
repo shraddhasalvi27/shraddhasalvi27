@@ -70,12 +70,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shraddhasalvi27&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shraddhasalvi27&layout=compact&theme=tokyonight" height="180"/>
-</p>
 
 ---
 
